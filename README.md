@@ -12,5 +12,5 @@ quiz-app/
 └── README.md         # Project documentation
 
 
-![[image alt](https://github.com/VishalBhagat185/Quiz-App/blob/3fbbcc2c99c1a916accf9a1cddcd189152753e8a/quizApp.png)
+![[image alt]([https://github.com/VishalBhagat185/Quiz-App/blob/3fbbcc2c99c1a916accf9a1cddcd189152753e8a/quizApp.png](https://github.com/VishalBhagat185/Quiz-App/blob/be3dadc2f0327107f48933d9bd5123585ffd5daa/quizApp.png))
 
