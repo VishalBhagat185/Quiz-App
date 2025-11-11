@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+body{
+    background-color: #001e4b;
+}
+.app{
+    background-color: #fff;
+    width: 90%;
+    max-width: 600px;
+    margin: 100px auto 0;
+    padding: 30px;
+    border-radius: 10px;
+}
+.app h1{
+     color : #001e4db3;
+     border-bottom: 1px solid black;
+     font-size: 30px;
+     font-weight: 600;
+     padding-bottom: 30px;
+}
+.app h2{
+    color : #001e4db3;
+    padding-top: 1rem;
+    font-size: 1.2rem;
+    padding-bottom: 1rem;
+}
+#ansQuestion{
+    display: flex;
+    flex-direction: column;
+    gap: 0.8rem;
+}
+.btn{
+ text-align: left;
+ padding:0.8rem;
+ cursor:pointer;
+ font-style: italic;
+ color: #001e4d;
+ font-size: 0.9rem;
+ transition: all 0.2s;
+}
+#ansQuestion .btn:hover{
+     border:1px solid black;
+     color: white;
+     border-radius: 5px;
+     background-color: black;
+}
+.b1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:2rem;
+}
+.b1 button{
+    padding: 10px 40px;
+    font-size: 0.9rem;
+    border: none;
+    outline: none;
+    font-style: italic;
+    transition: 700;
+    border-radius: 5px;
+    border: 0.1px solid rgb(185, 164, 164);
+}
+.b1 button:hover{
+    background-color: rgb(19, 19, 25);
+    border-radius: 5px;
+    color: white;
+}
