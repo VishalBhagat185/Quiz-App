@@ -11,5 +11,5 @@ quiz-app/
 ├── Quiz.js           # JavaScript logic
 └── README.md         # Project documentation
 
-![image alt]
+![[image alt](https://github.com/VishalBhagat185/Quiz-App/blob/3fbbcc2c99c1a916accf9a1cddcd189152753e8a/quizApp.png)]
 
